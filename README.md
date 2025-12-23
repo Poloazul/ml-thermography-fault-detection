@@ -54,3 +54,36 @@ Log Loss was used as the primary metric to evaluate probabilistic performance an
 ---
 
 ## 🧪 Project Structure
+ml-thermography-fault-detection/
+├── data/ # Datasets (or samples)
+├── notebooks/ # EDA and model training
+├── src/ # Reusable source code
+├── models/ # Trained models
+├── results/ # Metrics and visualizations
+└── README.md
+
+---
+
+## 🛠️ Technologies Used
+- Python
+- NumPy
+- Pandas
+- Scikit-learn
+- XGBoost
+- TensorFlow / Keras
+- Matplotlib / Seaborn
+
+---
+
+## 🚀 Key Takeaways
+- Machine Learning can significantly improve fault detection accuracy in thermographic inspections.
+- Combining thermographic data with electrical magnitudes enhances model performance.
+- Model complexity must be balanced with dataset size to avoid overfitting.
+- XGBoost proved to be the most suitable model for this industrial application.
+
+---
+
+## 📬 Author
+**Michael Mancheno**  
+Industrial Maintenance Engineer  
+Machine Learning applied to Predictive Maintenance
