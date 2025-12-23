@@ -54,14 +54,15 @@ Log Loss was used as the primary metric to evaluate probabilistic performance an
 ---
 
 ## 🧪 Project Structure
+```text
 ml-thermography-fault-detection/
-├── data/ # Datasets (or samples)
-├── notebooks/ # EDA and model training
-├── src/ # Reusable source code
-├── models/ # Trained models
-├── results/ # Metrics and visualizations
-└── README.md
-
+├── 📁 data/           # Datasets (or samples)
+├── 📁 notebooks/      # EDA and model training
+├── 📁 src/            # Reusable source code
+├── 📁 models/         # Trained models
+├── 📁 results/        # Metrics and visualizations
+└── 📄 README.md       # Project documentation
+```
 ---
 
 ## 🛠️ Technologies Used
