@@ -3,8 +3,6 @@
 ## 📌 Project Overview
 This project applies Machine Learning techniques to the diagnosis of electrical equipment failures using thermographic images and electrical magnitudes. The objective is to evaluate and compare different ML models to determine the most effective approach for industrial fault detection.
 
-This work is based on my undergraduate thesis in Industrial Maintenance Engineering.
-
 ---
 
 ## 🏭 Industrial Context
