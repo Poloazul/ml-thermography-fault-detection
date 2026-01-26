@@ -59,4 +59,4 @@ To scale this solution for **Industry 4.0** environments, the following migratio
 **Michael Mancheno**
 *Industrial Maintenance Engineer | Reliability & Data Specialist*
 * **Focus:** Bridging the gap between Physical Asset Management and AI.
-* **Contact:** [[Tu LinkedIn Aquí]](https://www.linkedin.com/in/michael-mancheno/)
+* **Contact:** [[MichaelM]](https://www.linkedin.com/in/michael-mancheno/)
